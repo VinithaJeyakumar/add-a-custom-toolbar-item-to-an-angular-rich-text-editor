@@ -34,3 +34,4 @@ npm install
 
 Run ng serve command for a dev server. Navigate to http://localhost:4200/. The app will automatically reload if you change any of the source files.
 
+> Looking for the full Angular Rich Text Editor component overview, features, pricing, and documentation? Visit the <a href="https://www.syncfusion.com/angular-components/angular-rich-text-editor" target="_blank" rel="noopener">Angular Rich Text Editor</a> page.
